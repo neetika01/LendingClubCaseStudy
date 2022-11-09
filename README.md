@@ -1,48 +1,35 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This is an assignment in Module 2 .
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+- Borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters.If one is   able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such           applicants using EDA is the aim of this case study.
+- Decide whether the finance company should approve or reject the loan application so that they can minimize their losses
+- loan.csv is used which has all the loan data.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- There are only few variables which can affect the application status and hence help the finance company decide on the loan applications .
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- matplotlib
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@neetika01] - feel free to contact me!
 
 
 <!-- Optional -->
